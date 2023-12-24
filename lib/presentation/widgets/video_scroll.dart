@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:toktik/domain/entities/video_post.dart';
+import 'package:toktik/presentation/widgets/video/fullscreen_player.dart';
 import 'package:toktik/presentation/widgets/video_buttons.dart';
 
 class VideoScroll extends StatelessWidget {
@@ -26,6 +27,10 @@ class VideoScroll extends StatelessWidget {
         // < Stack > Permite sobreponer widgets uno encima de otro.
         return Stack(
           children: [
+            
+            SizedBox.expand(
+              child: FullScreenPlayer(videoUrl: videoPost.videoUrl,caption: videoPost.caption,)
+            ),
 
             // Buttons
             Positioned(
