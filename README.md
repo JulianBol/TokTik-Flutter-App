@@ -11,6 +11,6 @@ y nombralos 1.mp4, 2.mp4, 3.mp4 y así sucesivamente (para probar
 el proyecto usa 8 videos máximo) puedes usar el siguiente sitio 
 para descargar los videos.
 
-    - https://www.pexels.com/search/videos/vertical/
+    * [https://www.pexels.com/search/videos/vertical/](https://www.pexels.com/search/videos/vertical/)
 
 
