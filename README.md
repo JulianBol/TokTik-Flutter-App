@@ -1,16 +1,10 @@
-# toktik
+# TokTik
 
 A new Flutter project.
 
-## Getting Started
+## Videos
 
-This project is a starting point for a Flutter application.
+Agrega los videos que quieras visualizar en 'assets/videos'
+y nombralos 1.mp4, 2.mp4, 3.mp4 y así sucesivamente.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
